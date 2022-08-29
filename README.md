@@ -15,7 +15,7 @@ For Hardware:
 We have used
 
 1. Cotton glove
-2. Arduino microprocessor: receives analog data from different sensors and provess it for further analysis. 
+2. Arduino microprocessor: receives analog data from different sensors and process it for further analysis. 
 3. Flex sensors: determine the bending of each finger of one hand and sends data to microprocessor
 4. Wifi module: connects arduino to the computer/laptop device for wireless communication between glove and the device. 
 5. Gyroscope: determines the angular position of the hand in space and sends three plane x, y and z-axis values to microprocessor. 
@@ -39,7 +39,7 @@ For Software:
 
  * Code Details
   ------------
-  Arduino.ino file: reads real-time data and transmit it to PC. 
-  Prediction using ML file: Trains Machine Learning models over the dataset and save them in a folder. 
-  Load Models file: apply saved ML models on to the real-time data for gesture translation and prediction. 
+  1. Arduino.ino file: reads real-time data and transmit it to PC. 
+  2. Prediction using ML file: Trains Machine Learning models over the dataset and save them in a folder. 
+  3. Load Models file: apply saved ML models on to the real-time data for gesture translation and prediction. 
  
