@@ -1,4 +1,5 @@
-# Smart Glove - Sign LanguageTranslator
+# Smart Glove - Sign LanguageTranslator 
+## Awarded 3rd Prize for Best Project @ Bahria University:3rd_place_medal:
 
 
 * Introduction
